@@ -2,8 +2,7 @@
   "name": "5task-pug",
   "version": "1.0.0",
   "scripts": {
-    "start": "node .",
-    "install": "yarn install"
+    "start": "node ."
   },
   "main": "./src/",
   "license": "MIT",
